@@ -187,9 +187,9 @@ This project is useful for:
 
 ## 👨‍💻 Author
 
-**Pawan Kumar**
+**Pawan Kumar** --[@pawan-25k]
 
-**Vikram Kumar Paswan**
+**Vikram Kumar Paswan** --[@vikkukrr]
 
 ---
 
