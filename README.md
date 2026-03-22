@@ -119,7 +119,7 @@ Gamification
 ### 1️⃣ Clone the Repository
 
 ```
-git clone https://github.com/your-username/Gamification
+git clone https://github.com/vikkukrr/Gamification
 
 cd Gamification
 ```
