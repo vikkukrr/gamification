@@ -1,6 +1,6 @@
 # 🍽️ Spin-to-Dine Wheel
 
-A full-stack gamified food recommendation system that helps users decide what to eat using a fun spinning wheel. This project reduces decision fatigue and enhances users engagement in food ordering applications.
+A full-stack gamified food recommendation system that helps users decide what to eat using a fun spinning wheel. This project reduces decision fatigue and enhances user engagement in food ordering applications.
 
 ---
 
